@@ -1,0 +1,29 @@
+{
+  "name": "Test TCG 2",
+  "url": "http://test.tcg",
+  "status": "active",
+  "level": "1",
+  "level_badge": null,
+  "username": "Coco",
+  "banner": null,
+  "custom": [
+    {
+      "title": "Currencies", "type": "value", "options": [
+      {"name": "stars", "image": null, "value": 1000},
+      {"name": "blue lolly", "image": null, "value": 800},
+      {"name": "red lolly", "image": null, "value": 90}
+    ]
+    },
+    {
+      "title": "Stamps", "type": "image", "options": [
+      {"name": "stamp 1", "image": null},
+      {"name": "stamp 2", "image": null}
+    ]
+    },
+    {
+      "title": "Badges", "type": "image", "options": [
+      {"name": "badge 1", "image": null}
+    ]
+    }
+  ]
+}
