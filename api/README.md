@@ -1,1 +1,0 @@
-# TCGBox API
